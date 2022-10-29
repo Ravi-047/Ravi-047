@@ -160,3 +160,7 @@ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
 <br/>
 
 <img width=100% alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+<p align="center">
+    <img src="./gif/example.svg" width="400" height="400" alt="css-in-readme">
+</p>
