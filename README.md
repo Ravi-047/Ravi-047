@@ -6,9 +6,7 @@
 <br/>
 <br/>
 
-<img style="border:3px solid yellow; border-radius:10px;box-shadow:
-      rgb(255, 255, 0) 0px -12px 10px, rgb(255, 255, 0) 0px 4px 6px,
-      rgba(242, 255, 0, 0.987) 0px 12px 13px, rgb(241, 254, 0) 0px -3px 5px;" width="900px" height="450px-" src="./gif/full-stack-developer.gif">
+<img style="border:3px solid yellow; border-radius:10px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;" width="900px" height="450px-" src="./gif/full-stack-developer.gif">
 
 <br/>
 
