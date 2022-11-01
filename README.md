@@ -5,10 +5,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Ravi-047"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-
 <p>
   <h1 align="center">
   <img src="./gif/Hi.gif" width="30px" />&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;
@@ -18,6 +14,10 @@
 
 <p>
   <h2 align="center" style="font-style: italic;">__ A passionate Full Stack Web developer from India __</h2>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ravi-047"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <br/>
