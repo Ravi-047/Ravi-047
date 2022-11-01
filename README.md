@@ -4,9 +4,10 @@
 <img width="100%" src="gif/colored.png">
 
 <br/>
-<br/>
 
-<img style="border:3px solid yellow; border-radius:10px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;" width="900px" height="450px-" src="./gif/full-stack-developer.gif">
+<p align="center">
+  <a href="https://github.com/Ravi-047"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 <br/>
 
@@ -29,10 +30,6 @@
  <a href="mailto:ravi047raj@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" width="110px"/> 
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ravi-047"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <img width="100%" src="gif/colored.png">
