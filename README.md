@@ -14,11 +14,10 @@
 <h1 align="center">
   <img src="./gif/Hi.gif" width="30px" />&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;
  <img src="./gif/Earth.gif" width="25px"> ,&nbsp;&nbsp; I'm Ravi Ranjan Ram
- 
 </h1>
+<br/>
 
 <h2 align="center" style="font-style: italic;">__ A passionate Full Stack Web developer from India __</h2>
-
 <br/>
 
 <p align="center"><img src="https://visitcount.itsvg.in/api?id=Ravi-047&label=Profile%20Views&color=10&icon=0&pretty=false" width="200px" style="cursor:pointer"></p>
