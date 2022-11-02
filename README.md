@@ -1,7 +1,6 @@
 <img width=100% alt="Nemonet-TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,20&height=190&section=header&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center"><img src="./gif/Handshake.gif" width="30"></p>
-<img width="100%" src="gif/colored.png">
 
 <br/>
 
@@ -12,9 +11,7 @@
 </h1>
 </p>
 
-<p>
-  <h2 align="center" style="font-style: italic;">__ A passionate Full Stack Web developer from India __</h2>
-</p>
+<h3 align="center" style="font-style: italic;">__ A passionate Full Stack Web developer from India __</h3>
 
 <p align="center">
   <a href="https://github.com/Ravi-047"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -84,6 +81,12 @@
 
 <br/>
 <br/>
+<p align="center" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ravi-047&theme=high-contrast&hide_border=false"/>
+</p>
+
+<br/>
+<br/>
 
 <img width="100%" src="gif/colored.png">
 
@@ -120,6 +123,12 @@
 
 <br/>
 
+<p align="center">
+  <img width="auto" height="200px" src="./gif/github2.gif">
+</p>
+
+<br/>
+
 <img width="100%" src="gif/colored.png">
 
 <br/>
@@ -151,6 +160,28 @@ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
 ```
 
 </h4>
+
+<br/>
+<br/>
+
+<img width="100%" src="gif/colored.png">
+
+<br/>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<h2 align="center">😂 Random Dev Meme</h2>
+
+<br/>
+
+<p align="center">
+  <img style="box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px; background:rgb(211, 0, 248);border-radius:10px" src="https://random-memer.herokuapp.com/" width="500px"/>
+</p>
 
 <br/>
 <br/>
