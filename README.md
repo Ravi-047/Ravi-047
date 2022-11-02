@@ -1,8 +1,6 @@
-<img width=100% alt="Nemonet-TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,20&height=190&section=header&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% alt="Nemonet-TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,20&height=190&section=header&text=WELCOME TO MY PROFILE&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center"><img src="./gif/Handshake.gif" width="30"></p>
-
-<br/>
 
 <p>
   <h1 align="center">
@@ -15,19 +13,6 @@
 
 <p align="center">
   <a href="https://github.com/Ravi-047"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-
-<br/>
-
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=Ravi-047&label=Profile%20Views&color=10&icon=0&pretty=false" width="200px" style="cursor:pointer"></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravi-047&label=Visitors&color=0e75b6&style=flat" alt="Ravi-047" width="100px"/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/Ravi-047?label=Followers&style=flat&color=0e75b6" alt="Ravi-047" width="110px"/>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/Ravi-047?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ravi-047r" width="90px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:ravi047raj@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" width="110px"/> 
-  </a>
 </p>
 
 <img width="100%" src="gif/colored.png">
@@ -94,6 +79,20 @@
 
 <h2 align="center">Connect with me</h2>
 <br/>
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Ravi-047&label=Profile%20Views&color=10&icon=0" width="200px">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ravi-047&label=Visitors&color=0e75b6&style=flat" alt="Ravi-047" width="100px"/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/Ravi-047?label=Followers&style=flat&color=0e75b6" alt="Ravi-047" width="110px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/Ravi-047?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ravi-047r" width="90px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:ravi047raj@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" width="110px"/> 
+  </a>
+</p>
+
 <br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/ravi-ranjan-136844231/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravi-ranjan-136844231/" height="40" width="50" style="box-shadow: rgba(2, 65, 255, 0.956) 0px 5px 15px; padding:5px; border-radius:5px"/></a>
@@ -187,3 +186,7 @@ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
 <br/>
 
 <img width=100% alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+<p align="center">
+  <img src="./gif/footerImage.png"/>
+</p>
