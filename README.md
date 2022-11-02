@@ -1,4 +1,4 @@
-<img width=100% alt="Nemonet-TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,20&height=190&section=header&text=WELCOME TO MY PROFILE&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% alt="Nemonet-TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,20&height=190&section=header&text=WELCOME-TO-MY-PROFILE&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center"><img src="./gif/Handshake.gif" width="30"></p>
 
