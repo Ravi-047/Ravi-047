@@ -1,10 +1,13 @@
 <img width=100% alt="Nemonet-TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,20&height=190&section=header&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p align="center"><img src="./gif/Handshake.gif" width="30"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/103764080/214292799-c22b8318-9d7d-4cb4-a6ce-5fd439d18673.gif"
+width="30"></p>
 
 <h1 align="center">
-  <img src="./gif/Hi.gif" width="30px" />&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;
- <img src="./gif/Earth.gif" width="25px"> ,&nbsp;&nbsp; I'm Ravi Ranjan Ram
+  <img src="https://user-images.githubusercontent.com/103764080/214292240-49bdb784-1e7f-4c10-8cc1-4f122108bbf2.gif"
+ width="30px" />&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/103764080/214292652-6bc5cc11-b43a-4d2c-8817-70c47964b371.gif"
+ width="25px"> ,&nbsp;&nbsp; I'm Ravi Ranjan Ram
 
 </h1>
 
@@ -60,7 +63,7 @@
 <br/>
 
 <p align="center">
-  <img height="150" width="150" src="./gif/left.webp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-047&theme=radical&hide_border=true" style="border-radius:5px; "/><img height="150" width="150" src="./gif/right.webp">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-047&theme=radical&hide_border=true" style="border-radius:5px; "/>
 </p>
 
 <hr/>
