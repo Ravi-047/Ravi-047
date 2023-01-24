@@ -70,7 +70,7 @@ width="30"></p>
 
 <h2 align="center">Connect with me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-ranjan-136844231/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-ranjan-136844231)
 
 <hr/>
 
