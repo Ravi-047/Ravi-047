@@ -182,11 +182,7 @@ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
   <img style="box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px; background:rgb(211, 0, 248);border-radius:10px" src="https://random-memer.herokuapp.com/" width="500px"/>
 </p>
 
-<br/>
-<br/>
+<hr/>
 
 <img width=100% alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-<p align="center">
-  <img src="./gif/footerImage.png"/>
-</p>
